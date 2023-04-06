@@ -1,8 +1,7 @@
 var simple = document.querySelector('#simple');
 var hex = document.querySelector('#hex');
 
-var colors = ["red", "orang
-e", "blue", "green", "purple"];
+var colors = ["red", "orange", "blue", "green", "purple"];
 var body = document.querySelector('body');
 var backg = document.querySelector('#backg')
 var clickMe = document.querySelector('#click');
